@@ -1,0 +1,1 @@
+INSERT INTO loan_type VALUES ('MORTAGE', 3.5);
